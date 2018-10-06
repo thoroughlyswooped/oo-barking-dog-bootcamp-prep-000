@@ -4,4 +4,8 @@ class Dog
     @name = new_name;
   end
   
+  def bark
+    puts "Woof!";
+  end
+  
 end
